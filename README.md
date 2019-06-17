@@ -1,2 +1,2 @@
 # armory
-https://labs.p64cyber.com/pentesting-ics-dnp3/
+ICS - PENTESTING ---> https://labs.p64cyber.com/pentesting-ics-dnp3/
