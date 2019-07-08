@@ -20,3 +20,5 @@ DDOSER
 https://github.com/grafov/hulk.git
 
 https://github.com/secfigo/Awesome-Fuzzing
+
+https://github.com/danielmiessler/SecLists/tree/master/Fuzzing
