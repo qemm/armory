@@ -18,3 +18,5 @@ https://github.com/artilleryio/artillery-plugin-fuzzer
 DDOSER
 
 https://github.com/grafov/hulk.git
+
+https://github.com/secfigo/Awesome-Fuzzing
