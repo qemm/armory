@@ -19,6 +19,20 @@ DDOSER
 
 https://github.com/grafov/hulk.git
 
+
 https://github.com/secfigo/Awesome-Fuzzing
 
+Multi lists of fuzzers
+
 https://github.com/danielmiessler/SecLists/tree/master/Fuzzing
+
+LFI
+
+https://github.com/D35m0nd142/LFISuite.git
+
+Directory Traversal bruteforcer
+
+https://gitlab.com/kalilinux/packages/dirb
+
+Socket io hack
+https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io/
