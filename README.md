@@ -43,3 +43,5 @@ https://blog.secureideas.com/2019/04/better-api-penetration-testing-with-postman
 
 SSRF MAP
 https://github.com/swisskyrepo/SSRFmap
+
+ java -Djsse.enableSNIExtension=false -jar /opt/BurpSuitePro/burpsuite_pro.jar &
