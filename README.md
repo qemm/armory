@@ -39,3 +39,5 @@ https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io/
 
 Api hacking
 https://blog.secureideas.com/2019/04/better-api-penetration-testing-with-postman-part-3.html
+SSRF MAP
+https://github.com/swisskyrepo/SSRFmap
