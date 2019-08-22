@@ -45,3 +45,5 @@ SSRF MAP
 https://github.com/swisskyrepo/SSRFmap
 
  java -Djsse.enableSNIExtension=false -jar /opt/BurpSuitePro/burpsuite_pro.jar &
+
+https://www.hackingarticles.in/5-ways-file-upload-vulnerability-exploitation/
