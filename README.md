@@ -47,3 +47,10 @@ https://github.com/swisskyrepo/SSRFmap
  java -Djsse.enableSNIExtension=false -jar /opt/BurpSuitePro/burpsuite_pro.jar &
 
 https://www.hackingarticles.in/5-ways-file-upload-vulnerability-exploitation/
+
+
+BURP 
+
+ip rotate 
+
+https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension/blob/master/README.md
