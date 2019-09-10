@@ -49,7 +49,7 @@ https://github.com/swisskyrepo/SSRFmap
 https://www.hackingarticles.in/5-ways-file-upload-vulnerability-exploitation/
 
 
-BURP 
+<h1>BURP </h1> 
 
 Ip rotate 
 https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension
@@ -58,7 +58,7 @@ Secure Websockets
 
 https://www.freecodecamp.org/news/how-to-secure-your-websocket-connections-d0be0996c556/
 
-Prowler
+Prowler- AWS Auditory tool
 
 https://github.com/toniblyx/prowler
 
