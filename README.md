@@ -51,6 +51,10 @@ https://www.hackingarticles.in/5-ways-file-upload-vulnerability-exploitation/
 
 BURP 
 
-ip rotate 
+Ip rotate Secure Websockets
 
-https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension/blob/master/README.md
+https://www.freecodecamp.org/news/how-to-secure-your-websocket-connections-d0be0996c556/
+
+
+
+
