@@ -26,6 +26,7 @@ https://github.com/grafov/hulk.git
 <h2>Multi lists of fuzzers </h2>
 
 https://github.com/danielmiessler/SecLists/tree/master/Fuzzing
+<p>
 https://github.com/secfigo/Awesome-Fuzzing
 
 
