@@ -146,4 +146,8 @@ https://github.com/Gallopsled/pwntools
 <tr>     <td>stego     </td>     <td><a href="http://www.outguess.org/" target="_blank">       stegdetect      </a>     </td>     <td>Steganography detection/breaking tool.     </td>    </tr>
 <tr>     <td>stego     </td>     <td><a href="http://www.caesum.com/handbook/stego.htm" target="_blank">       stegsolve      </a>     </td>     <td>Image steganography solver.     </td>    </tr>
 <tr>     <td>android     </td>     <td><a href="https://ibotpeaches.github.io/Apktool/" target="_blank">       apktool      </a>     </td>     <td>Dissect, dis-assemble, and re-pack Android APKs     </td>    </tr>
+
+<tr>     <td>stego     </td>     <td><a href="http://steghide.sourceforge.net/" target="_blank">       StegHide      </a>     </td>     <td>Steganography program     </td>    </tr>
+
+
 </tbody>  </table>
