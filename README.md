@@ -67,3 +67,6 @@ https://www.freecodecamp.org/news/how-to-secure-your-websocket-connections-d0be0
 
 https://github.com/toniblyx/prowler
 
+<h1> TCP <h1>
+
+https://t.me/freedom_fox/3417
