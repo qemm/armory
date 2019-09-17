@@ -81,9 +81,9 @@ https://github.com/Gallopsled/pwntools
 <tr>     <th>Category     </th>     <th>Tool     </th>     <th>Description     </th>    </tr>
 </thead>   <tbody>
 
-<tr>     <td>binary     </td>     <td><a href="https://github.com/ReFirmLabs/binwalk" target="_blank"> BinWalk- Firware and binary analysis</a></tr>
+<tr>     <td>binary     </td>     <td><a href="https://github.com/ReFirmLabs/binwalk" target="_blank"> BinWalk- Firware and binary analysis</a></tr><td>BinWalk- Firware and binary analysis     </td>    </tr>
 
-<tr> <td> Reversing </td> <td> <a href="http://www.ollydbg.de"> Disassembler </a> </tr>
+<tr> <td> Reversing </td> <td> <a href="http://www.ollydbg.de"> Disassembler </a> </tr><td>Disassembler     </td>    </tr>
 
 <tr>     <td>binary     </td>     <td><a href="http://lcamtuf.coredump.cx/afl/" target="_blank">       afl      </a>     </td>     <td>State-of-the-art fuzzer.     </td>    </tr>
 <tr>     <td>binary     </td>     <td><a href="http://angr.io/" target="_blank">       angr      </a>     </td>     <td>Next-generation binary analysis engine from Shellphish.     </td>    </tr>
