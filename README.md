@@ -67,3 +67,6 @@ https://www.freecodecamp.org/news/how-to-secure-your-websocket-connections-d0be0
 
 https://github.com/toniblyx/prowler
 
+<h2> CTF - WriteUps and tools </h2>
+
+https://github.com/Gallopsled/pwntools
