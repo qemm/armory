@@ -1,4 +1,9 @@
 <h1>Armory</h1>
+<h2> Auditoría de sistemas </h2>
+
+https://cisofy.com/downloads/lynis/
+
+
 <h2>ICS (IOT) - PENTESTING </h2> 
 https://labs.p64cyber.com/pentesting-ics-dnp3/ 
 <h2>Fuzzers</h2>
