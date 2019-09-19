@@ -76,6 +76,11 @@ https://github.com/toniblyx/prowler
 
 https://github.com/Gallopsled/pwntools
 
+<h2> Swap Digger</h2>
+
+https://github.com/sevagas/swap_digger
+
+
 
  <h2> CTF TOOLS - From Kitploit and my own </h2>
  
