@@ -1,6 +1,14 @@
 <h1>Armory</h1>
 <h2> Auditoría de sistemas </h2>
 
+<h2> Test platforms </h2>
+<h3> DAMN VULNERABLE Web Services </h3>
+https://github.com/snoopysecurity/dvws
+
+<h3> DAMN VULNERABLE Web Sockets </h3>
+https://www.owasp.org/index.php/OWASP_Damn_Vulnerable_Web_Sockets_(DVWS)
+
+
 https://cisofy.com/downloads/lynis/
 
 
