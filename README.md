@@ -2,6 +2,7 @@
 
 
 <h2> Test platforms </h2>
+https://www.amanhardikar.com/mindmaps/Practice.html
 <h3> DAMN VULNERABLE Web Services </h3>
 https://github.com/snoopysecurity/dvws
 
