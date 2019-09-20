@@ -91,6 +91,8 @@ https://github.com/Gallopsled/pwntools
 
 https://github.com/sevagas/swap_digger
 
+<h2> Wordpress Audit </h2>
+https://ithemes.com/how-to-run-a-wordpress-security-audit/
 
 
  <h2> CTF TOOLS - From Kitploit and my own </h2>
