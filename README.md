@@ -71,6 +71,8 @@ https://www.hackingarticles.in/5-ways-file-upload-vulnerability-exploitation/
 <h3>IP rotate</h3> 
 https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension
 
+<h3> Burp Extensions </h3>
+https://github.com/snoopysecurity/awesome-burp-extensions
 
 <h2>Secure Websockets </h2>
 
