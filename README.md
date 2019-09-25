@@ -1,6 +1,7 @@
 <h1>Armory</h1>
 
-
+<h2> wordpress audit checklist </h2>
+https://wpsecuritychecklist.org/es/items/
 <h2> Test platforms </h2>
 https://www.amanhardikar.com/mindmaps/Practice.html
 <h3> DAMN VULNERABLE Web Services </h3>
