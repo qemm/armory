@@ -4,10 +4,10 @@
 https://wpsecuritychecklist.org/es/items/
 <h2> Test Platforms </h2>
 https://www.amanhardikar.com/mindmaps/Practice.html
-<h3> DAMN VULNERABLE Web Services </h3>
+<h3> Damn Vulnerable Web Services </h3>
 https://github.com/snoopysecurity/dvws
 
-<h3> DAMN VULNERABLE Web Sockets </h3>
+<h3> Damn Vulnerable Web Sockets </h3>
 https://www.owasp.org/index.php/OWASP_Damn_Vulnerable_Web_Sockets_(DVWS)
 
 <h2> Auditoría de sistemas </h2>
