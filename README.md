@@ -2,7 +2,7 @@
 
 <h2> Wordpress Audit Checklist </h2>
 https://wpsecuritychecklist.org/es/items/
-<h2> Test platforms </h2>
+<h2> Test Platforms </h2>
 https://www.amanhardikar.com/mindmaps/Practice.html
 <h3> DAMN VULNERABLE Web Services </h3>
 https://github.com/snoopysecurity/dvws
@@ -38,7 +38,7 @@ https://github.com/artilleryio/artillery-plugin-fuzzer
 
 https://github.com/grafov/hulk.git
 
-<h2>Multi lists of fuzzers </h2>
+<h2>Multi lists of Fuzzers </h2>
 
 https://github.com/danielmiessler/SecLists/tree/master/Fuzzing
 <p>
@@ -49,14 +49,14 @@ https://github.com/secfigo/Awesome-Fuzzing
 
 https://github.com/D35m0nd142/LFISuite.git
 
-<h2>Directory Traversal bruteforcer</h2>
+<h2>Directory Traversal Bruteforcer</h2>
 
 https://gitlab.com/kalilinux/packages/dirb
 
-<h2>Socket io hack </h2>
+<h2>Socket io Hack </h2>
 https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io/
 
-<h2>Api hacking </h2>
+<h2>Api Hacking </h2>
 https://blog.secureideas.com/2019/04/better-api-penetration-testing-with-postman-part-3.html
 
 
@@ -70,7 +70,7 @@ https://www.hackingarticles.in/5-ways-file-upload-vulnerability-exploitation/
 
 <h2>BURP </h2> 
 
-<h3>IP rotate</h3> 
+<h3>IP Rotate</h3> 
 https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension
 
 <h3> Burp Extensions </h3>
