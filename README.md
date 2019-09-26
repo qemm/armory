@@ -80,11 +80,11 @@ https://github.com/snoopysecurity/awesome-burp-extensions
 
 https://www.freecodecamp.org/news/how-to-secure-your-websocket-connections-d0be0996c556/
 
-<h2>Prowler- AWS Auditory tool</h2>
+<h2>Prowler- AWS Auditory Tool</h2>
 
 https://github.com/toniblyx/prowler
 
-<h2> CTF - WriteUps and tools </h2>
+<h2> CTF - WriteUps and Tools </h2>
 
 https://github.com/Gallopsled/pwntools
 
