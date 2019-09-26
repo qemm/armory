@@ -1,6 +1,6 @@
 <h1>Armory</h1>
 
-<h2> Wordpress audit checklist </h2>
+<h2> Wordpress Audit Checklist </h2>
 https://wpsecuritychecklist.org/es/items/
 <h2> Test platforms </h2>
 https://www.amanhardikar.com/mindmaps/Practice.html
