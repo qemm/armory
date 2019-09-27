@@ -1,5 +1,9 @@
 <h1>Armory</h1>
 
+<h2> Rebel Framework </h2>
+
+https://github.com/reb311ion/rebel-framework
+
 <h2> Wordpress Audit Checklist </h2>
 https://wpsecuritychecklist.org/es/items/
 <h2> Test Platforms </h2>
