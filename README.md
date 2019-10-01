@@ -1,5 +1,6 @@
 <h1>Armory</h1>
 
+
 <h2> Rebel Framework </h2>
 
 https://github.com/reb311ion/rebel-framework
@@ -35,9 +36,11 @@ https://xapax.gitbooks.io/security/content/port_forwarding_and_tunneling.html
 <p>
 https://github.com/RedTeamOperations/PivotSuite
 
+<h1> API </h1>
 <h2>Api Fuzzer</h2>
 https://github.com/artilleryio/artillery-plugin-fuzzer
 
+https://assertible.com/blog/api-security-testing-tips-to-prevent-getting-pwned
 <h2>DDOSER</h2>
 
 https://github.com/grafov/hulk.git
