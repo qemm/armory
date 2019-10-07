@@ -45,6 +45,9 @@ https://assertible.com/blog/api-security-testing-tips-to-prevent-getting-pwned
 
 https://github.com/grafov/hulk.git
 
+<h2> Wordpress XSS Wordfence</h2>
+https://vexatioustendencies.com/wordfence-v5-2-3-2-stored-xss-insufficient-logging-throttle-bypass-exploit-detection-bypass/
+
 <h2>Multi lists of Fuzzers </h2>
 
 https://github.com/danielmiessler/SecLists/tree/master/Fuzzing
