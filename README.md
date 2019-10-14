@@ -1,6 +1,8 @@
 <h1>Armory</h1>
 
-
+<h2> PENTESTING-BIBLE </h2>
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md
+ 
 <h2> Rebel Framework </h2>
 
 https://github.com/reb311ion/rebel-framework
