@@ -1,5 +1,8 @@
 <h1>Armory</h1>
 
+<h2> Checklist GCP </h2>
+https://support.apple.com/es-es/HT201585
+
 <h2> PENTESTING-BIBLE </h2>
 https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md
  
