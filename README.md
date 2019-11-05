@@ -4,7 +4,7 @@
 https://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html
 <h2> Checklist GCP </h2>
 https://support.apple.com/es-es/HT201585
-
+https://medium.com/google-cloud/gcp-checklist-2-securing-your-gcp-resources-7c5140c12f8c
 <h2> PENTESTING-BIBLE </h2>
 https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE/blob/master/README.md
  
