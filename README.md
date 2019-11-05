@@ -1,5 +1,7 @@
 <h1>Armory</h1>
 
+<h2> PHP - security best practices </h2>
+https://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html
 <h2> Checklist GCP </h2>
 https://support.apple.com/es-es/HT201585
 
