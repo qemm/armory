@@ -1,4 +1,6 @@
 <h1>Armory</h1>
+<h2> Network Intrusion Detection System </h2>
+https://www.darknet.org.uk/2019/11/aiengine-ai-driven-network-intrusion-detection-system/?utm_source=feedly&utm_medium=webfeeds
 
 <h2> PHP - security best practices </h2>
 https://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html
