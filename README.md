@@ -2,6 +2,8 @@
 <h2> ICS Tools </h2>
 https://github.com/hslatman/awesome-industrial-control-system-security
 
+https://github.com/ITI/ICS-Security-Tools/blob/master/tools/audit/README.md
+
 <h2> ICS TestBed Framework </h2>
 https://github.com/PMaynard/ICS-TestBed-Framework
 
