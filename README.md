@@ -1,4 +1,42 @@
 <h1>Armory</h1>
+
+FBI Tools para pruebas de seguridad, like a la página he comparte, hagan sus pruebas sin dañar a los demás,. 
+HERRAMIENTAS PARA RECOLECCIÓN DE INFORMACIÓN Y ACCIONES FORENSIC
+Una herramienta de búsqueda creada para explorar el archivo NJ Arrest del FBI. Creado para Hack Jersey 2.0
+https://github.com/CarlaAstudillo/ArreStats
+Infoga - Recopilación de información por correo electrónico
+https://github.com/m4ll0k/Infoga
+Informe principal del proyecto del FBI Crime Data Explorer
+https://github.com/18F/crime-data-explorer
+PDFMtEd (PDF Metadata Editor) es un conjunto de herramientas diseñadas para simplificar el trabajo con metadatos PDF en Linux. Las utilidades alojadas en este repositorio son interfaces gráficas para el maravilloso ExifTool de Phil Harvey.
+https://github.com/glutanimate/PDFMtEd
+Extrae metadatos de varios contenedores de audio
+https://github.com/tmont/audio-metadata
+Information gathering tool - OSINT
+https://github.com/twelvesec/gasmask
+Verifique si existe una dirección de correo electrónico sin enviar ningún correo electrónico. Utiliza telnet.
+https://github.com/amaurymartiny/check-if-email-exists
+Proporciona extracción de metadatos para paquetes iOS, Android y Windows.
+https://github.com/Microsoft/app-metadata
+Una herramienta de investigación forense móvil de código abierto para plataforma Android
+https://github.com/scorelab/ANDROPHSY
+Automatización y escalamiento de herramientas forenses digitales
+https://github.com/google/turbinia
+script que extraerá todas las contraseñas guardadas de su base de datos de google chrome y las guardará en chrome.txt
+https://github.com/D4Vinci/Chrome-Extractor
+Firefox Decrypt es una herramienta para extraer contraseñas de los perfiles de Mozilla (Firefox / Thunderbird / Seabird)
+https://github.com/unode/firefox_decrypt
+Recuperar información de geolocalización de IP
+https://github.com/maldevel/IPGeoLocation
+Cameradar entra en las cámaras de videovigilancia de RTSP
+https://github.com/Ullaakut/cameradar
+PowerForensics es un marco para el análisis forense de discos en vivo
+https://github.com/Invoke-IR/PowerForensics
+Api de reconocimiento facial más simple del mundo para Python y la línea de comando
+https://github.com/ageitgey/face_recognition
+
+
+
 <h2> ICS Tools </h2>
 https://github.com/hslatman/awesome-industrial-control-system-security
 
