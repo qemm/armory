@@ -1,19 +1,19 @@
 <h1>Armory</h1>
 
 FBI Tools para pruebas de seguridad, like a la página he comparte, hagan sus pruebas sin dañar a los demás,. 
-HERRAMIENTAS PARA RECOLECCIÓN DE INFORMACIÓN Y ACCIONES FORENSIC
-Una herramienta de búsqueda creada para explorar el archivo NJ Arrest del FBI. Creado para Hack Jersey 2.0
+HERRAMIENTAS PARA RECOLECCIÓN DE INFORMACIÓN Y ACCIONES FORENSIC <p>
+Una herramienta de búsqueda creada para explorar el archivo NJ Arrest del FBI. Creado para Hack Jersey 2.0 <p>
 https://github.com/CarlaAstudillo/ArreStats
-Infoga - Recopilación de información por correo electrónico
+Infoga - Recopilación de información por correo electrónico<p>
 https://github.com/m4ll0k/Infoga
-Informe principal del proyecto del FBI Crime Data Explorer
+Informe principal del proyecto del FBI Crime Data Explorer <p>
 https://github.com/18F/crime-data-explorer
-PDFMtEd (PDF Metadata Editor) es un conjunto de herramientas diseñadas para simplificar el trabajo con metadatos PDF en Linux. Las utilidades alojadas en este repositorio son interfaces gráficas para el maravilloso ExifTool de Phil Harvey.
+PDFMtEd (PDF Metadata Editor) es un conjunto de herramientas diseñadas para simplificar el trabajo con metadatos PDF en Linux. Las utilidades alojadas en este repositorio son interfaces gráficas para el maravilloso ExifTool de Phil Harvey.<p>
 https://github.com/glutanimate/PDFMtEd
-Extrae metadatos de varios contenedores de audio
-https://github.com/tmont/audio-metadata
+Extrae metadatos de varios contenedores de audio<p>
+https://github.com/tmont/audio-metadata<p>
 Information gathering tool - OSINT
-https://github.com/twelvesec/gasmask
+https://github.com/twelvesec/gasmask<p>
 Verifique si existe una dirección de correo electrónico sin enviar ningún correo electrónico. Utiliza telnet.
 https://github.com/amaurymartiny/check-if-email-exists
 Proporciona extracción de metadatos para paquetes iOS, Android y Windows.
