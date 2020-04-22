@@ -4,6 +4,9 @@ SMS/Email/whatsapp Bombers Collection.
 
 https://github.com/bhattsameer/Bombers
 
+https://github.com/crinny/b0mb3r
+
+https://github.com/LimerBoy/Impulse
 
 FBI Tools para pruebas de seguridad, like a la página he comparte, hagan sus pruebas sin dañar a los demás,. 
 HERRAMIENTAS PARA RECOLECCIÓN DE INFORMACIÓN Y ACCIONES FORENSIC <p>
