@@ -1,5 +1,8 @@
 <h1>Armory</h1>
 
+<h2> Brute Shark (Network audit tool) </h2>
+ https://github.com/odedshimon/BruteShark
+
 <h2> Azure Audit Toolt</h2>
 https://github.com/nccgroup/azucar/blob/master/README.md
 
