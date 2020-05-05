@@ -19,9 +19,6 @@ https://github.com/crinny/b0mb3r
 
 https://github.com/LimerBoy/Impulse
 
-FBI Tools para pruebas de seguridad, like a la página he comparte, hagan sus pruebas sin dañar a los demás,. 
-HERRAMIENTAS PARA RECOLECCIÓN DE INFORMACIÓN Y ACCIONES FORENSIC <p>
-Una herramienta de búsqueda creada para explorar el archivo NJ Arrest del FBI. Creado para Hack Jersey 2.0 <p>
 https://github.com/CarlaAstudillo/ArreStats
 Infoga - Recopilación de información por correo electrónico<p>
 https://github.com/m4ll0k/Infoga
