@@ -1,5 +1,9 @@
 <h1>Armory</h1>
 
+<h2> XSS Cheat Sheet </h2>
+
+https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+
 <h2> Brute Shark (Network audit tool) </h2>
  https://github.com/odedshimon/BruteShark
 
