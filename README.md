@@ -1,5 +1,10 @@
 <h1>Armory</h1>
 
+
+<h2> s3 cronh </h2>
+
+https://github.com/cr0hn/festin
+
 <h2> XSS Cheat Sheet </h2>
 
 https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
