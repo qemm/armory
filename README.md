@@ -1,5 +1,7 @@
 <h1>Armory</h1>
 
+LFI WRAPPERS
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
 
 <h2> s3 cronh </h2>
 
