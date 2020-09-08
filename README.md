@@ -3,7 +3,7 @@
 LFI WRAPPERS
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
 
-<h2> s3 cronh </h2>
+<h2> s3 crhon </h2>
 
 https://github.com/cr0hn/festin
 
