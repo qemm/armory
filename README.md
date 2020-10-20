@@ -3,7 +3,7 @@
 Upload on files
 
 
-LFI WRAPPERS
+<h2>LFI WRAPPERS</h2>
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
 
 <h2> s3 crhon </h2>
