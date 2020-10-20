@@ -1,7 +1,6 @@
 <h1>Armory</h1>
 <h2> OSINT Packet 2019 </h2>
-Upload on files
-
+https://github.com/qemm/armory/blob/master/OSINT_Packet_2019.pdf
 
 <h2>LFI WRAPPERS</h2>
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
