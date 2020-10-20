@@ -1,4 +1,7 @@
 <h1>Armory</h1>
+<h2> OSINT Packet 2019 </h2>
+Upload on files
+
 
 LFI WRAPPERS
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion
