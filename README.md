@@ -1,4 +1,8 @@
 <h1>Armory</h1>
+
+<h2> attacking Recaptcha</h2>
+
+https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style
 <h2> CVE Download files NFS</h2>
 https://github.com/ioncodes/CVE-2020-16938.git
 
