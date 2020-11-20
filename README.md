@@ -1,5 +1,8 @@
 <h1>Armory</h1>
 
+<h2> Google Bots attak vector </h2>
+https://www.netsparker.com/blog/web-security/using-google-bots-attack-vector/
+
 <h2> attacking Recaptcha</h2>
 
 https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style
