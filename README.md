@@ -1,5 +1,8 @@
 <h1>Armory</h1>
 
+<H2> insta brute force </H2>
+https://github.com/Ha3MrX/InstaBrute
+
 <h2> Google Bots attak vector </h2>
 https://www.netsparker.com/blog/web-security/using-google-bots-attack-vector/
 
