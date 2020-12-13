@@ -1,5 +1,5 @@
 <h1>Armory</h1>
-
+SSRF, simple mindmap. https://t.co/AmqWdDcIlt https://t.co/gr4JNU1E59
 <H2> insta brute force </H2>
 https://github.com/Ha3MrX/InstaBrute
 
