@@ -1,4 +1,9 @@
 <h1>Armory</h1>
+<h1>Bypass tecniques </h1>
+https://github.com/gnxbr/Fully-Undetectable-Techniques/tree/main/possessor
+
+<h2>SSRF Mindmap</h2>
+
 SSRF, simple mindmap. https://t.co/AmqWdDcIlt https://t.co/gr4JNU1E59
 <H2> insta brute force </H2>
 https://github.com/Ha3MrX/InstaBrute
