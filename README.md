@@ -11,6 +11,10 @@ https://github.com/Ha3MrX/InstaBrute
 <h2> Google Bots attak vector </h2>
 https://www.netsparker.com/blog/web-security/using-google-bots-attack-vector/
 
+<h2> Explotar collection 1/2</h2>
+
+https://threat.tevora.com/diy-leaked-credential/
+
 <h2> attacking Recaptcha</h2>
 
 https://portswigger.net/research/cracking-recaptcha-turbo-intruder-style
