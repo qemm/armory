@@ -3,6 +3,9 @@
 https://github.com/gnxbr/Fully-Undetectable-Techniques/tree/main/possessor
 http://smspriv6fynj23u6.onion
 
+<H2> RTtoolkit </H2>
+
+https://0xsp.com/offensive/red-teaming-toolkit-collection
 
 <h2>SSRF Mindmap</h2>
 
