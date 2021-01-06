@@ -1,6 +1,8 @@
 <h1>Armory</h1>
 <h1>Bypass tecniques </h1>
 https://github.com/gnxbr/Fully-Undetectable-Techniques/tree/main/possessor
+http://smspriv6fynj23u6.onion
+
 
 <h2>SSRF Mindmap</h2>
 
