@@ -1,5 +1,8 @@
 <h1>Armory</h1>
-<h1>Bypass tecniques </h1>
+<h2> Netsparker tools </h2>
+https://github.com/oneplus-x/Awesome-Pentest
+
+<h2>Bypass tecniques </h2>
 https://github.com/gnxbr/Fully-Undetectable-Techniques/tree/main/possessor
 http://smspriv6fynj23u6.onion
 
