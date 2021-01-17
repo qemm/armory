@@ -1,6 +1,6 @@
 <h1>Armory</h1>
 
-<H1> jet </H1>
+<H1> jwt </H1>
 
 https://myjwt.readthedocs.io/
 
