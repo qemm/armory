@@ -1,4 +1,9 @@
 <h1>Armory</h1>
+
+<H1> jet </H1>
+
+https://myjwt.readthedocs.io/
+
 <h2>AwesomePenetrationTest </h2>
 https://github.com/majidkalantarii/AwesomePenetrationTest
 <h2> Netsparker tools </h2>
