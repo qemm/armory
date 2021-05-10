@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+	
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>netcoreapp3.0</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<ApplicationIcon>BruteSharkIcon.ico</ApplicationIcon>
+	</PropertyGroup>
+	
+	<ItemGroup>
+	  <PackageReference Include="AutomaticGraphLayout" Version="1.1.9" />
+	  <PackageReference Include="AutomaticGraphLayout.Drawing" Version="1.1.9" />
+	  <PackageReference Include="AutomaticGraphLayout.GraphViewerGDI" Version="1.1.9" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\BruteForce\BruteForce.csproj" />
+	  <ProjectReference Include="..\CommonUi\CommonUi.csproj" />
+	  <ProjectReference Include="..\PcapAnalyzer\PcapAnalyzer.csproj" />
+	  <ProjectReference Include="..\PcapProcessor\PcapProcessor.csproj" />
+	</ItemGroup>
+	
+</Project>
