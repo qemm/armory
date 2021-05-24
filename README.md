@@ -2,6 +2,9 @@
 
 Added a new text Document where I'm going to include all cheetshits I've found
 
+<h1>vlan hopping</h1>
+https://cybersecurity.att.com/blogs/security-essentials/vlan-hopping-and-mitigation
+
 <H1> jwt </H1>
 
 https://myjwt.readthedocs.io/
