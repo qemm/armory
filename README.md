@@ -2,6 +2,9 @@
 
 Added a new text Document where I'm going to include all cheetshits I've found
 
+<h1> Laravel Cheat Sheet </h1>
+https://cheatsheetseries.owasp.org/cheatsheets/Laravel_CheatSheet.html
+
 <h1>vlan hopping</h1>
 https://cybersecurity.att.com/blogs/security-essentials/vlan-hopping-and-mitigation
 
