@@ -1,5 +1,9 @@
 <h1>Armory</h1>
 
+<H1>password reset flaws </H1>
+
+https://anugrahsr.github.io/posts/10-Password-reset-flaws/?s=09
+
 Added a new text Document where I'm going to include all cheetshits I've found
 
 <h1> Laravel Cheat Sheet </h1>
