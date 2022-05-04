@@ -1,6 +1,6 @@
 <h1>Armory</h1>
 
-<H1> bypass WAF<H1>
+<H1> bypass WAF</H1>
 https://github.com/hakluke/hakoriginfinder
 
 <H1>password reset flaws </H1>
