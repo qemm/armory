@@ -1,5 +1,22 @@
 <h1>Armory</h1>
 
+<H1> pivotimg <h1>
+https://github.com/jpillora/chisel
+•  https://github.com/0x36/VPNPivot
+•  https://github.com/sysdream/ligolo
+•  https://github.com/esrrhs/pingtunnel
+•  https://github.com/nccgroup/ABPTTS
+•  https://github.com/sensepost/reGeorg
+•  https://github.com/nccgroup/SocksOverRDP
+•  https://github.com/trustedsec/egressbuster
+•  https://github.com/p3nt4/Invoke-SocksProxy
+•  https://github.com/securesocketfunneling/ssf
+•  https://github.com/blackarrowsec/mssqlproxy
+•  https://github.com/hayasec/reGeorg-Weblogic
+•  https://github.com/shantanu561993/SharpChisel
+•  https://github.com/RedTeamOperations/PivotSuite
+•  https://github.com/vincentcox/bypass-firewalls-by-DNS-history
+
 <H1> bypass WAF</H1>
 https://github.com/hakluke/hakoriginfinder
 
