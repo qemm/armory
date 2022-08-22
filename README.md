@@ -1,6 +1,6 @@
 <h1>Armory</h1>
 
-<H1> pivotimg <h1>
+<H1> pivoting </h1>
 https://github.com/jpillora/chisel
 •  https://github.com/0x36/VPNPivot
 •  https://github.com/sysdream/ligolo
@@ -33,6 +33,7 @@ https://cheatsheetseries.owasp.org/cheatsheets/Laravel_CheatSheet.html
 https://cybersecurity.att.com/blogs/security-essentials/vlan-hopping-and-mitigation
 
 <H1> jwt </H1>
+
 
 https://myjwt.readthedocs.io/
 
