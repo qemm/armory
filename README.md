@@ -1,5 +1,8 @@
 <h1>Armory</h1>
 
+<h1>webshells </h1>
+https://fatehgar.org/tools/index.php
+
 <H1> pivoting </h1>
 https://github.com/jpillora/chisel
 •  https://github.com/0x36/VPNPivot
