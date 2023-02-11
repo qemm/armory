@@ -1,5 +1,9 @@
 <h1>Armory</h1>
 
+<h1>Listado de C2 </h1>
+
+
+
 <h1> RedTeam Tools</h1>
 
 https://github.com/A-poc/RedTeam-Tools
@@ -9,14 +13,23 @@ https://fatehgar.org/tools/index.php
 
 <H1> pivoting </h1>
 https://github.com/jpillora/chisel
+<p>
 •  https://github.com/0x36/VPNPivot
+<p>
 •  https://github.com/sysdream/ligolo
+
 •  https://github.com/esrrhs/pingtunnel
+
 •  https://github.com/nccgroup/ABPTTS
+
 •  https://github.com/sensepost/reGeorg
+
 •  https://github.com/nccgroup/SocksOverRDP
+
 •  https://github.com/trustedsec/egressbuster
+
 •  https://github.com/p3nt4/Invoke-SocksProxy
+
 •  https://github.com/securesocketfunneling/ssf
 •  https://github.com/blackarrowsec/mssqlproxy
 •  https://github.com/hayasec/reGeorg-Weblogic
