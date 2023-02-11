@@ -2,21 +2,18 @@
 
 <h1>**Listado de C2** </h1>
 
-| C2                                                 | Github |
-| -------------                                      | ------------- |
-| [Content Cell](https://github.com/smokeme/airstrike|
-|https://github.com/sweetsoftware/Ares               |  
-||https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)  | Content Cell  |
+| C2 Github                                                | Github |
+| -------------                                            | |https://github.com/smokeme/airstrike|
+|https://github.com/sweetsoftware/Ares                     |  
+||https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)          | 
 |
-
-
-https://github.com/smokeme/airstrike
-
-https://github.com/sweetsoftware/Ares
-
-https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp
-
-https://github.com/Gr1mmie/AtlasC2
+|https://github.com/smokeme/airstrike
+|
+|https://github.com/sweetsoftware/Ares
+|
+|https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp
+|
+|https://github.com/Gr1mmie/AtlasC2
 
 https://github.com/UnkL4b/BabyShark
 
