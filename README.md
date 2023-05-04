@@ -1,7 +1,7 @@
 <h1>Armory</h1>
 <h1>Honeybits</h1>
 https://github.com/0x4D31/honeybits
-<h1>**Listado de C2** </h1>
+<h1>Listado de C2</h1>
 
 | C2 Github    | Github |
 |------------- |-------------|
