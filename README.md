@@ -12,12 +12,10 @@ https://github.com/0x4D31/honeybits
 |https://github.com/sweetsoftware/Ares|
 |https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp|
 |https://github.com/Gr1mmie/AtlasC2|
+|https://github.com/UnkL4b/BabyShark|
+|https://gitlab.com/KevinJClark/badrats|
 
-https://github.com/UnkL4b/BabyShark
-
-https://gitlab.com/KevinJClark/badrats
-
-https://github.com/loseys/BlackMamba
+|https://github.com/loseys/BlackMamba|
 
 https://github.com/theshadowboxers/bunraku
 
