@@ -17,17 +17,17 @@ https://github.com/0x4D31/honeybits
 
 |https://github.com/loseys/BlackMamba|
 
-https://github.com/theshadowboxers/bunraku
+|https://github.com/theshadowboxers/bunraku|
 
-https://github.com/FSecureLABS/C3
+|https://github.com/FSecureLABS/C3|
 
-https://github.com/mitre/caldera
+|https://github.com/mitre/caldera|
 
-https://github.com/3xpl01tc0d3r/Callidus
+|https://github.com/3xpl01tc0d3r/Callidus|
 
-https://github.com/tiagorlampert/CHAOS
+|https://github.com/tiagorlampert/CHAOS|
 
-https://github.com/cobbr/Covenant
+|https://github.com/cobbr/Covenant|
 
 https://github.com/crawl3r/DaaC2
 
