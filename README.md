@@ -6,8 +6,8 @@ https://github.com/0x4D31/honeybits
 | C2 Github    | Github |
 |------------- |-------------|
 |https://github.com/smokeme/airstrike  | 
-|https://github.com/sweetsoftware/Ares    |    
-|  
+|https://github.com/sweetsoftware/Ares |    
+| 
 ||https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)          | 
 |
 |https://github.com/smokeme/airstrike
