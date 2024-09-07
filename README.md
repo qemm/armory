@@ -1,6 +1,8 @@
 <h1>Armory</h1>
 
 <h2>apk scanner</h2>
+https://github.com/LucasFaudman/apkscan
+.
 
 xss scanner
 https://github.com/iamunixtz/LazyXss
