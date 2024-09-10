@@ -40,11 +40,11 @@ https://github.com/0x4D31/honeybits
 
 |https://github.com/cobbr/Covenant|
 
-https://github.com/crawl3r/DaaC2
+|https://github.com/crawl3r/DaaC2|
 
-https://github.com/h0mbre/Dali
+|https://github.com/h0mbre/Dali|
 
-https://github.com/enkomio/AlanFramework
+|https://github.com/enkomio/AlanFramework|
 
 https://github.com/hyp3rlinx/DarkFinger-C2
 
