@@ -1,6 +1,6 @@
 <h1>Armory</h1>
 
-<h2>Casos de cora</h2>
+<h2>Casos de cors</h2>
 https://outpost24.com/blog/exploiting-permissive-cors-configurations/
 
 
