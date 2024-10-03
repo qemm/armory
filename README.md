@@ -1,4 +1,9 @@
 <h1>Armory</h1>
+
+<h2>Casos de cora</h2>
+https://outpost24.com/blog/exploiting-permissive-cors-configurations/
+
+
 <h2> Bot detector </h2>
 https://github.com/ua-parser/uap-core.git
 
