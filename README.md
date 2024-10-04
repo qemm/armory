@@ -1,6 +1,9 @@
 <h1>Armory</h1>
 
-<h2>Casos de cors</h2>
+<h2> brute force attack tool</h2>
+
+https://github.com/jasonxtn/Kraken
+</h2>Casos de cors</h2>
 https://outpost24.com/blog/exploiting-permissive-cors-configurations/
 
 
