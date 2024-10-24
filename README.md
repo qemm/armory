@@ -1,4 +1,6 @@
 <h1>Armory</h1>
+<h1> cve scaner</h1>
+https://github.com/xaitax/SploitScan
 <h2> Recon Argus </h2>
 https://github.com/jasonxtn/argus
 <h2> brute force attack tool</h2>
