@@ -1,4 +1,6 @@
 <h1>Armory</h1>
+<h2>mind maps</h2>
+https://github.com/imran-parray/Mind-Maps
 <h2>domain hunter pro</h2>
  https://github.com/bit4woo/domain_hunter_pro
 <h2> jwt secrets BF</h2>
