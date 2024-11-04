@@ -1,4 +1,12 @@
 <h1>Armory</h1>
+<h2>domain hunter pro</h2>
+ https://github.com/bit4woo/domain_hunter_pro
+<h2> jwt secrets BF</h2>
+ https://github.com/wallarm/jwt-secrets/blob/master/jwt.secrets.list
+<h2>bbot </h2>
+https://github.com/blacklanternsecurity/bbot
+<h2> Cloud Flare bypass</h2>
+https://github.com/FlareSolverr/FlareSolverr
 <h2>file inclusión</h2> 
 https://github.com/kurobeats/fimap
 <h1> cve scaner</h1>
