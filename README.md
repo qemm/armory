@@ -1,5 +1,7 @@
 <h1>Armory</h1>
-<h2> DOVA OPENVAS CS3
+<h2> wfuzz </h2>
+https://github.com/xmendez/wfuzz.git
+<h2> DOVA OPENVAS CS3</h2>
 https://github.com/cs3group/DOVA
 <h2>mind maps</h2>
 https://github.com/imran-parray/Mind-Maps
