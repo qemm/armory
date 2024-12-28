@@ -1,4 +1,6 @@
 <h1>Armory</h1>
+<h2>Awsome LLMS(IA)</h2>
+https://github.com/Shubhamsaboo/awesome-llm-apps?tab=readme-ov-file
 <h2> Problema con MOZILLA PKIX ERROR MITM DETECTED</h2>
 https://www.auslogics.com/en/articles/fix-mozilla-pkix-error-mitm-detected-issue/#:~:text=SSL_ERROR_RX_RECORD_TOO_LONG%E2%80%9D%20Firefox%20Error-,What%20is%20the%20'MOZILLA_PKIX_ERROR_MITM_DETECTED'%20Error%3F,ends%20up%20distrusting%20the%20certificates
 <h2> Problema con Hsts en los dominios </h2>
