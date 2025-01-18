@@ -1,4 +1,6 @@
 <h1>Armory</h1>
+<h2>snoop find nicknames</h2>
+https://github.com/snooppr/snoop/blob/master/README.en.md
 <h2> apis offat</h2>
 https://github.com/OWASP/OFFAT
 <h2>Subprober</h2>
