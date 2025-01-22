@@ -1,8 +1,9 @@
 <h1>Armory</h1>
 <h2>Pentest Android studio</h2>
 https://github.com/newbit1/rootAVD?tab=readme-ov-file (Aplicación para root)
-<h2> Frida</h2>
+<h2> Frida antipinnig</h2>
 Se pone arriba
+frida-pinning.js
 <h2>snoop find nicknames</h2>
 https://github.com/snooppr/snoop/blob/master/README.en.md
 <h2> apis offat</h2>
