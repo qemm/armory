@@ -1,5 +1,7 @@
 <h1>Armory</h1>
-
+<h2> powerupsql</h2>
+https://github.com/NetSPI/PowerUpSQL
+PowerUpSQL includes functions that support SQL Server discovery, weak configuration auditing
 <h2>Drozer</h2>
 https://www.hackingarticles.in/android-penetration-testing-drozer/
 <h2>Pentest Android studio</h2>
