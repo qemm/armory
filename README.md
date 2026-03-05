@@ -1,4 +1,6 @@
 <h1>Armory</h1>
+<LLM>attacks</LLM>
+https://github.com/Joe-B-Security/awesome-prompt-injection
 <h2>Dalfox Xss</h2>
 https://github.com/hahwul/dalfox
 <h2> powerupsql</h2>
