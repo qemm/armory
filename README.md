@@ -1,5 +1,5 @@
 <h1>Armory</h1>
-<h2>attacks</h2>
+<h2>LLM attacks</h2>
 https://github.com/Joe-B-Security/awesome-prompt-injection
 <h2>Dalfox Xss</h2>
 https://github.com/hahwul/dalfox
